@@ -19,9 +19,9 @@
     "preset": "jest-expo"
   },
   "dependencies": {
-    "expo": "^33.0.7",
-    "react": "16.8.6",
-    "react-native": "0.60.3",
+    "expo": "36.0.2",
+    "react": "16.13.0",
+    "react-native": "0.61.5",
     "webview": "0.0.1"
   }
 }
