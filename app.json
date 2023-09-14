@@ -1,13 +1,9 @@
 {
   "expo": {
-    "sdkVersion": "23.0.0",
     "name": "katy-hiking-trails-react-native",
     "slug": "katy-hiking-trails-react-native",
     "version": "0.1.0",
-    "platforms": [
-      "android",
-      "ios"
-    ],
+    "platforms": ["android", "ios"],
     "description": ""
   }
 }
