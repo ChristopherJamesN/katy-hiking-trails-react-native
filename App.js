@@ -6,8 +6,8 @@ export default class App extends React.Component {
     return (
       <View style={styles.container}>
         <WebView
-          source={{uri: 'https://katy-hiking-trails.herokuapp.com/'}}
-          style={{marginTop: 20}}
+          source={{ uri: 'https://katy-hiking-trails.fly.dev/)' }}
+          style={{ marginTop: 20 }}
         />
       </View>
     );
